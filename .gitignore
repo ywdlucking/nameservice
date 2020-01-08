@@ -1,2 +1,4 @@
 .idea/*
 go.sum
+NUL
+cmd/nsd/nsd.exe
